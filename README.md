@@ -54,11 +54,6 @@ Features **localStorage support**, **dark mode toggle**, and **mobile-friendly d
 
 ---
 
-## 🌟 Live Demo
-
-[Click Here to View](https://yourusername.github.io/todo-app)
-
----
 
 ## 📜 License
 
@@ -68,5 +63,5 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**POORVIKA A C**  
 [GitHub](https://github.com/poorvika5102) | [LinkedIn](https://www.linkedin.com/in/poorvikaac/)
