@@ -35,15 +35,6 @@ Features **localStorage support**, **dark mode toggle**, and **mobile-friendly d
 
 ---
 
-## 📸 Screenshots
-
-### Light Mode
-![Light Mode](screenshots/light-mode.png)
-
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
-
----
 
 ## ⚡ How to Run Locally
 
