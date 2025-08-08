@@ -78,4 +78,4 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-link)
+[GitHub](https://github.com/poorvika5102) | [LinkedIn](https://www.linkedin.com/in/poorvikaac/)
